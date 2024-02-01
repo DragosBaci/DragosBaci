@@ -13,7 +13,4 @@ Welcome to my GitHub profile! 🚀 I'm passionate about Software Engineering, an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dragosbaci21/)
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dragosbaci.com)
 
-## 🎓 Looking for Collaboration
-
-I'm always open to collaborating on exciting projects. If you have an idea or want to work together, feel free to reach out!
 
