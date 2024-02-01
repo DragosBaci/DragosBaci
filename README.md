@@ -17,6 +17,3 @@ Welcome to my GitHub profile! 🚀 I'm passionate about Software Engineering, an
 
 I'm always open to collaborating on exciting projects. If you have an idea or want to work together, feel free to reach out!
 
-## ❤️ Thank You
-
-Thanks for stopping by! Feel free to explore my repositories, and don't forget to ⭐️ your favorite projects!
