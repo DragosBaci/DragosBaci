@@ -22,7 +22,7 @@ I'm currently focusing on [current projects or learning goals]. Stay tuned for u
 
 ## 🤝 Let's Connect
 
-- 📫 Email: [dragos617@yahoo.com]
+- 📫 Email: dragos617@yahoo.com
 - 🔗 LinkedIn: [dragosbaci21](https://www.linkedin.com/in/dragosbaci21/)
 - 🌐 Website: [dragosbaci.com](https://www.dragosbaci.com)
 
