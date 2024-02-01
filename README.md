@@ -22,14 +22,9 @@ I'm currently focusing on [current projects or learning goals]. Stay tuned for u
 
 ## 🤝 Let's Connect
 
-- 📫 Email: [your@email.com]
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
-- 🌐 Website: [yourwebsite.com](https://www.yourwebsite.com)
-
-## 📊 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=stars,issues&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 Email: [dragos617@yahoo.com]
+- 🔗 LinkedIn: [dragosbaci21](https://www.linkedin.com/in/dragosbaci21/)
+- 🌐 Website: [dragosbaci.com](https://www.dragosbaci.com)
 
 ## 🌐 Find Me Around the Web
 
